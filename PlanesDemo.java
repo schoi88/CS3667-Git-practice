@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class PlanesDemo 
 {
-    public static void main()
+    public static void main(String[] args)
     {
         Scanner kb = new Scanner("System.in");
         System.out.println("You have a choice to fly either of 2 planes ('Airliner' or 'Fighter')");

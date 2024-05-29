@@ -1,4 +1,9 @@
 import java.util.Scanner;
+/*
+ * PlanesDemo
+ * 
+ * A driver class to execute a test flight for one of two types of planes.
+ */
 public class PlanesDemo 
 {
     public static void main(String[] args)

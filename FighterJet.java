@@ -1,3 +1,8 @@
+/*
+ * FighterJet class
+ * 
+ * Extends Planes for use as an example Fighter Jet flight. 
+ */
 public class FighterJet extends Planes
 {
     public FighterJet(){}

@@ -1,3 +1,8 @@
+/*
+ * Airliner class
+ * 
+ * Extends Planes for use as an example Airliner flight. 
+ */
 public class Airliner extends Planes 
 {
     public Airliner(){}
